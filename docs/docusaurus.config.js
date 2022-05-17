@@ -29,7 +29,7 @@ module.exports = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/NaroaCS/AutonomousBicycleSimulation',
+          href: 'https://github.com/CityScope/AutonomousMicroMobility',
           label: 'GitHub',
           position: 'right',
         },
@@ -63,7 +63,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/NaroaCS/AutonomousBicycleSimulation',
+            'https://github.com/CityScope/AutonomousMicroMobility',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },

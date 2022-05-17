@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Getting Started
 
-Before you start, you will need to download the code from our **[GitHub repo](https://github.com/NaroaCS/AutonomousBicycleSimulation)**. If you are new to GitHub, **[here's](http://rogerdudler.github.io/git-guide/)** a simple guide to get you started. To get our code run:
+Before you start, you will need to download the code from our **[GitHub repo](https://github.com/CityScope/AutonomousMicroMobility)**. If you are new to GitHub, **[here's](http://rogerdudler.github.io/git-guide/)** a simple guide to get you started. To get our code run:
 
 ```shell
 git clone https://github.com/NaroaCS/AutonomousBicycleSimulation.git
