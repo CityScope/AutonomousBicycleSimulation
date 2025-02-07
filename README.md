@@ -29,7 +29,7 @@ This Autonomous micro-mobility simulation has been developed by the MIT Media La
 
 
 # Conda environment configuration used
-Save the info below in a .txt file
+In case you run into library compatibility problems, you can re-use or conda environment configuration by saving the code below in a .txt file and running conda create --name <env> --file <this file>
 
 ```
 # This file may be used to create an environment using:
